@@ -1,0 +1,13 @@
+.thumbphoto {
+  width: auto;
+}
+.thumbnail {
+  width: 100%;
+  opacity: 0.5;
+}
+.active {
+  opacity: 1;
+}
+.btn {
+  border: none;
+}
